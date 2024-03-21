@@ -1,0 +1,3 @@
+D:/PC/OOP/Class 2 (revise structs)/lab1_6/cmake-build-debug/CMakeFiles/lab1_6.dir
+D:/PC/OOP/Class 2 (revise structs)/lab1_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/OOP/Class 2 (revise structs)/lab1_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

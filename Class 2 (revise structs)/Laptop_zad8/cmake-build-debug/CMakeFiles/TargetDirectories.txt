@@ -1,0 +1,3 @@
+D:/PC/OOP/Class 2 (revise structs)/Laptop_zad8/cmake-build-debug/CMakeFiles/Laptop.dir
+D:/PC/OOP/Class 2 (revise structs)/Laptop_zad8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/OOP/Class 2 (revise structs)/Laptop_zad8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
