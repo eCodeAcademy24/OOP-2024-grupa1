@@ -94,6 +94,7 @@ void najdobar_park(ZabavenPark *zp, int n) {
     int maxVremetraenje = 0;
     int indexI = 0;
     int maxVozenja = 0;
+    bool flag = true;
     for (int i = 0; i < n; i++) {
         int counter = 0;
         int vreme = 0;
@@ -103,13 +104,13 @@ void najdobar_park(ZabavenPark *zp, int n) {
             }
 
             vreme += zp[i].v[j].vremetraenje;
-
         }
 
-        if (i == 0) {
+        if (flag) {
             maxVozenja = counter;
             maxVremetraenje = vreme;
             indexI = i;
+            flag = false;
             continue;
         }
 
@@ -120,6 +121,7 @@ void najdobar_park(ZabavenPark *zp, int n) {
         } else if (counter == maxVozenja && vreme > maxVremetraenje) {
             indexI = i;
             maxVremetraenje = vreme;
+//            maxVozenja = counter; mozhe ama i ne mora
         }
 
     }

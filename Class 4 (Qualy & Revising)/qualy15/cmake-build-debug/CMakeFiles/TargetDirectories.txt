@@ -1,0 +1,3 @@
+D:/PC/OOP/Class 4 (Qualy & Revising)/qualy15/cmake-build-debug/CMakeFiles/qualy15.dir
+D:/PC/OOP/Class 4 (Qualy & Revising)/qualy15/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/OOP/Class 4 (Qualy & Revising)/qualy15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
