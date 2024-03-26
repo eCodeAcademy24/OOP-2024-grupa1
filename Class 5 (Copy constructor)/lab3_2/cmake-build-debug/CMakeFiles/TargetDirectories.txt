@@ -1,0 +1,3 @@
+D:/PC/OOP/Class 5 (Copy constructor)/lab3_2/cmake-build-debug/CMakeFiles/lab3_2.dir
+D:/PC/OOP/Class 5 (Copy constructor)/lab3_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/OOP/Class 5 (Copy constructor)/lab3_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
