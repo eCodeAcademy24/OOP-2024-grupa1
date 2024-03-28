@@ -1,0 +1,3 @@
+D:/PC/OOP/Zadaci za vezbanje prv kolokvium/zad20/cmake-build-debug/CMakeFiles/zad20.dir
+D:/PC/OOP/Zadaci za vezbanje prv kolokvium/zad20/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PC/OOP/Zadaci za vezbanje prv kolokvium/zad20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
